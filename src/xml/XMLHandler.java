@@ -1,4 +1,4 @@
-/*
+
 package xml;
 
 import java.io.File;
@@ -186,4 +186,4 @@ public class XMLHandler implements IXMLHandler {
 		}
 		writer.add(eventFactory.createEndElement("", "", "Row"));
 	}
-}*/
+}
